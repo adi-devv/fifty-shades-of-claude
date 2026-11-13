@@ -17,7 +17,7 @@ Chat with great books. Each skill turns a book into a persona: switch it on and 
 | `/mom-test <your questions or notes>` | Customer-interview coach: grades and rewrites your questions |
 | `/meditations <your problem>` | Calm Stoic notebook |
 | `/bookclub subtle-art mom-test meditations <question>` | A panel: each book answers in its own voice and they argue |
-| `/exit` | Drop the persona |
+| "exit book" / "drop the book" | Drop the persona (don't type `/exit`, that quits Claude Code) |
 
 Stack books by switching on more than one, or use `/bookclub`. If a name clashes with another plugin, use the full form, e.g. `/fifty-shades-of-claude:subtle-art`.
 
