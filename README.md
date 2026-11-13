@@ -11,6 +11,8 @@ skills/
 
 ## Planned
 
+Full list of 50: [BOOKS.md](BOOKS.md). First up:
+
 - The Subtle Art of Not Giving a F*ck
 - Think and Grow Rich
 - Atomic Habits
