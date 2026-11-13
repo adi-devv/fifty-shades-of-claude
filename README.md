@@ -1,23 +1,28 @@
 # Fifty Shades of Claude
 
-Claude skills built from great books. Each skill turns one book's way of thinking into a lens Claude can use on your problems.
+Chat with great books. Each skill turns a book into a persona: switch it on and it answers with that book's worldview and voice. Or put several in a panel and let them argue.
 
-## Layout
+## Install (Claude Code)
 
 ```
-skills/
-  <book-name>/SKILL.md
+/plugin marketplace add adi-devv/fifty-shades-of-claude
+/plugin install fifty-shades-of-claude@fifty-shades-of-claude
 ```
 
-## Planned
+## Use
 
-Full list of 50: [BOOKS.md](BOOKS.md). First up:
+| Command | What happens |
+|---|---|
+| `/subtle-art <your problem>` | The blunt, sweary realist takes over the chat |
+| `/mom-test <your questions or notes>` | Customer-interview coach: grades and rewrites your questions |
+| `/meditations <your problem>` | Calm Stoic notebook |
+| `/bookclub subtle-art mom-test meditations <question>` | A panel: each book answers in its own voice and they argue |
+| `/exit` | Drop the persona |
 
-- The Subtle Art of Not Giving a F*ck
-- Think and Grow Rich
-- Atomic Habits
-- The Mom Test
-- Zero to One
-- Deep Work
+Stack books by switching on more than one, or use `/bookclub`. If a name clashes with another plugin, use the full form, e.g. `/fifty-shades-of-claude:subtle-art`.
 
-Skills summarize ideas in our own words; they don't reproduce book text.
+## The shelf
+
+3 of 50 done. Full list: [BOOKS.md](BOOKS.md). Template for new books: [docs/SKILL_TEMPLATE.md](docs/SKILL_TEMPLATE.md).
+
+Personas play the **book**, not the real author, and explain ideas in their own words. No book text is reproduced here.

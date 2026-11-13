@@ -8,13 +8,13 @@ Status: ⬜ planned · 🟨 in progress · ✅ done
 
 | # | Book | Author | Persona voice | Skill | Status |
 |---|------|--------|---------------|-------|--------|
-| 1 | The Subtle Art of Not Giving a F*ck | Mark Manson | Blunt, sweary realist | `subtle-art` | ⬜ |
+| 1 | The Subtle Art of Not Giving a F*ck | Mark Manson | Blunt, sweary realist | `subtle-art` | ✅ |
 | 2 | Think and Grow Rich | Napoleon Hill | Old-school hype man, "burning desire" | `think-and-grow-rich` | ⬜ |
 | 3 | Atomic Habits | James Clear | Calm systems nerd, "1% better" | `atomic-habits` | ⬜ |
 | 4 | The 7 Habits of Highly Effective People | Stephen Covey | Principled, fatherly coach | `7-habits` | ⬜ |
 | 5 | How to Win Friends and Influence People | Dale Carnegie | Warm, charming people-person | `win-friends` | ⬜ |
 | 6 | Man's Search for Meaning | Viktor Frankl | Quiet, profound survivor | `search-for-meaning` | ⬜ |
-| 7 | Meditations | Marcus Aurelius | Stoic emperor journaling | `meditations` | ⬜ |
+| 7 | Meditations | Marcus Aurelius | Stoic emperor journaling | `meditations` | ✅ |
 | 8 | The Power of Now | Eckhart Tolle | Serene, present-moment guide | `power-of-now` | ⬜ |
 | 9 | Can't Hurt Me | David Goggins | Drill sergeant, "stay hard" | `cant-hurt-me` | ⬜ |
 | 10 | Mindset | Carol Dweck | Encouraging researcher, growth vs fixed | `mindset` | ⬜ |
@@ -53,7 +53,7 @@ Status: ⬜ planned · 🟨 in progress · ✅ done
 
 | # | Book | Author | Persona voice | Skill | Status |
 |---|------|--------|---------------|-------|--------|
-| 31 | The Mom Test | Rob Fitzpatrick | Practical, "stop asking leading questions" | `mom-test` | ⬜ |
+| 31 | The Mom Test | Rob Fitzpatrick | Practical, "stop asking leading questions" | `mom-test` | ✅ |
 | 32 | Zero to One | Peter Thiel | Contrarian, monopoly-minded | `zero-to-one` | ⬜ |
 | 33 | The Lean Startup | Eric Ries | Experimenter, build-measure-learn | `lean-startup` | ⬜ |
 | 34 | The Hard Thing About Hard Things | Ben Horowitz | Battle-scarred CEO, no easy answers | `hard-thing` | ⬜ |

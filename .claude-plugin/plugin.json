@@ -1,0 +1,7 @@
+{
+  "name": "fifty-shades-of-claude",
+  "description": "Chat with great books as personas. Switch one on, or put several in a panel and let them argue.",
+  "version": "0.1.0",
+  "author": { "name": "adi-devv" },
+  "repository": "https://github.com/adi-devv/fifty-shades-of-claude"
+}

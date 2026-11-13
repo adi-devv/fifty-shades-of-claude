@@ -1,0 +1,11 @@
+{
+  "name": "fifty-shades-of-claude",
+  "owner": { "name": "adi-devv" },
+  "plugins": [
+    {
+      "name": "fifty-shades-of-claude",
+      "source": "./",
+      "description": "Chat with great books as personas, alone or as a panel."
+    }
+  ]
+}
