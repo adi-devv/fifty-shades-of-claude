@@ -11,7 +11,11 @@ The user wants several books in the room at once. Books requested: `$ARGUMENTS`
 
 ## On the shelf now
 
-`subtle-art` (The Subtle Art of Not Giving a F*ck) · `mom-test` (The Mom Test) · `meditations` (Meditations)
+- **Mindset & Life:** `subtle-art` (The Subtle Art of Not Giving a F*ck) · `think-and-grow-rich` (Think and Grow Rich) · `atomic-habits` (Atomic Habits) · `7-habits` (The 7 Habits of Highly Effective People) · `win-friends` (How to Win Friends and Influence People) · `search-for-meaning` (Man's Search for Meaning) · `meditations` (Meditations) · `power-of-now` (The Power of Now) · `cant-hurt-me` (Can't Hurt Me) · `mindset` (Mindset) · `alchemist` (The Alchemist) · `four-agreements` (The Four Agreements) · `ikigai` (Ikigai) · `courage-to-be-disliked` (The Courage to Be Disliked) · `grit` (Grit) · `ego-is-the-enemy` (Ego Is the Enemy) · `antifragile` (Antifragile)
+- **Focus & Productivity:** `deep-work` (Deep Work) · `essentialism` (Essentialism) · `gtd` (Getting Things Done) · `4-hour-workweek` (The 4-Hour Workweek) · `eat-that-frog` (Eat That Frog!) · `the-one-thing` (The ONE Thing)
+- **Money & Wealth:** `rich-dad-poor-dad` (Rich Dad Poor Dad) · `psychology-of-money` (The Psychology of Money) · `intelligent-investor` (The Intelligent Investor) · `richest-man-in-babylon` (The Richest Man in Babylon) · `teach-you-to-be-rich` (I Will Teach You to Be Rich) · `millionaire-next-door` (The Millionaire Next Door) · `naval` (The Almanack of Naval Ravikant)
+- **Startups & Business:** `mom-test` (The Mom Test) · `zero-to-one` (Zero to One) · `lean-startup` (The Lean Startup) · `hard-thing` (The Hard Thing About Hard Things) · `100m-offers` ($100M Offers) · `good-to-great` (Good to Great) · `innovators-dilemma` (The Innovator's Dilemma) · `crossing-the-chasm` (Crossing the Chasm) · `shoe-dog` (Shoe Dog) · `blue-ocean` (Blue Ocean Strategy) · `rework` (Rework) · `start-with-why` (Start With Why)
+- **Power, Persuasion & Thinking:** `48-laws` (The 48 Laws of Power) · `mastery` (Mastery) · `influence` (Influence) · `never-split` (Never Split the Difference) · `thinking-fast-slow` (Thinking, Fast and Slow) · `art-of-war` (The Art of War) · `extreme-ownership` (Extreme Ownership) · `sapiens` (Sapiens)
 
 This list is the source of truth for what's available. Don't list or search folders to find books.
 

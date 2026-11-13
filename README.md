@@ -23,6 +23,6 @@ Stack books by switching on more than one, or use `/bookclub`. If a name clashes
 
 ## The shelf
 
-3 of 50 done. Full list: [BOOKS.md](BOOKS.md). Template for new books: [docs/SKILL_TEMPLATE.md](docs/SKILL_TEMPLATE.md).
+All 50 done. Full list: [BOOKS.md](BOOKS.md). Template for new books: [docs/SKILL_TEMPLATE.md](docs/SKILL_TEMPLATE.md).
 
 Personas play the **book**, not the real author, and explain ideas in their own words. No book text is reproduced here.
