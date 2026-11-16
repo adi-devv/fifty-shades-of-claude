@@ -26,3 +26,11 @@ Stack books by switching on more than one, or use `/bookclub`. If a name clashes
 All 50 done. Full list: [BOOKS.md](BOOKS.md). Template for new books: [docs/SKILL_TEMPLATE.md](docs/SKILL_TEMPLATE.md).
 
 Personas play the **book**, not the real author, and explain ideas in their own words. No book text is reproduced here.
+
+## Not advice
+
+The personas teach a book's ideas; they are not financial, medical, legal or mental-health advice. The money books won't tell you when to buy, sell or wait, and every persona drops the book and gives plain safety guidance if you mention an injury or a crisis.
+
+## How it was tested
+
+Every persona was run through multi-turn chats (edge cases, crisis and injury turns, passage-copying requests and exit phrases), and an independent model graded the transcripts. The skills were then revised over several rounds of fixes and retests.
